@@ -1,4 +1,4 @@
-E-Learning-Kurs: Grundlagen der Wirtschaftsinformatik mit Python
+Herzlich willkommen zum E-Learning-Kurs: Grundlagen der Wirtschaftsinformatik mit Python
 
 In diesem Repo befinden sich die Übungseinheiten zum Kurs.
 Die zugehörigen Lösungen werden an einem anderen Ort zur Verfügung gestellt.
@@ -6,7 +6,7 @@ Die zugehörigen Lösungen werden an einem anderen Ort zur Verfügung gestellt.
 Die einzelnen Kapitel beinhalten interaktive Jupyter Notebooks und zugehörige Bilddateien.
 
 Beim Download beachten:
-Am besten jedes Kapitel in einen Ordner herunterladen und in diesem Ordner auch die Bilddateien.
+Am besten jedes Kapitel in einen separaten Ordner herunterladen und in diesen Ordner auch die Bilddateien.
 Sie werden sonst nicht in den Notebooks angezeigt.
 
 Zur Bearbeitung:
@@ -17,16 +17,19 @@ Hier ist der Link zu CoCalc: https://cocalc.com/
 Dort klickt man dann auf: "Run CoCalc Now"
 Dann klickt man auf "Upload" (weiter oben schwarz hinterlegt auf der rechten Seite), um ein Notebook hochzuladen.
 Mit einem Klick öffnet man es.
-Beim ersten Arbeiten damit muss man den Kernel zur Ausführung des Notebooks festlegen. Wähle: "Python 3"
+Beim ersten Arbeiten damit muss man den Kernel zur Ausführung des Notebooks festlegen. Wähle: "Python 3".
 
 Tipp:
-Zuerst eine Kopie von dem Jupyter Notebook machen sowie diese ggf. umbenennen und dann die Kopie bearbeiten. 
+Vor der Bearbeitung eine Kopie von dem Jupyter Notebook erstellen sowie diese ggf. umbenennen und dann die Kopie bearbeiten. 
 Sonst überschreibt man die Originaldatei.
 
 Weiter zur Bearbeitung:
 Links oben in der Notebookansicht kann man unter "Files" zurück in seine Dateiübersicht auf CoCalc.
-Unter "File" kann man seine aktuelle Datei herunterladen und mehr.
 Rechts neben "File" gibt es den grünen Button "Save", um die aktuelle Datei abzuspeichern.
+Unter "File" kann man seine aktuelle Datei herunterladen und mehr.
 In den Jupyter Notebooks wird davon ausgegangen, dass sie im Localhost ausgeführt werden und nicht auf CoCalc.
-Deshalb beziehen sich die Hinweise zur Bedienung nicht direkt auf CoCalc, sindern es wird nur von "Jupyter Notebook" gesprochen.
+Deshalb beziehen sich die Hinweise zur Bedienung in ihnen nicht direkt auf CoCalc, 
+sondern es wird nur von "Jupyter Notebook" gesprochen.
 Doch alle Hinweise zur Arbeit mit dem Jupyter Notebook wie das Klicken bestimmter Icons und Tastaturkürzel gelten analog für Cocalc.
+
+Viel Spaß!
