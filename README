@@ -10,4 +10,23 @@ Am besten jedes Kapitel in einen Ordner herunterladen und in diesem Ordner auch 
 Sie werden sonst nicht in den Notebooks angezeigt.
 
 Zur Bearbeitung:
+Die Jupyter Notebooks können in der Browser-App CoCalc bearbeitet werden.
+Für diese Seite braucht man sich nicht anzumelden, somit sind kein Account und folglich kein Login nötig.
+CoCalc ist fürs kollaborative Arbeiten angelegt. 
+Hier ist der Link zu CoCalc: https://cocalc.com/
+Dort klickt man dann auf: "Run CoCalc Now"
+Dann klickt man auf "Upload", um ein Notebook hochzuladen.
+Mit einem Klick öffnet man es.
 
+Tipp:
+Zuerst eine Kopie von dem Jupyter Notebook machen und diese ggf. umbenennen. Sonst überschreibt man die Originaldatei.
+
+Weiter zur Bearbeitung:
+
+
+Dann kann man ein Notebook (oder mehrere) uploaden und es zum Editieren
+kopieren, umbenennen und bearbeiten. Das Interface ist an Jupyter Notebook
+angelehnt. Man kann das bearbeitete Notebook speichern und anschließend
+downloaden, um es lokal gesichert zu haben.
+Auch der Import von Modulen scheint zu funktionieren, denn z.B. pandas war
+ohne Probleme zu importieren.
