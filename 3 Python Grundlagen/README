@@ -1,0 +1,41 @@
+3.0 Dein erstes Python-Programm
+
+3.1 Python als Taschenrechner
+3.1.1 Rechenarten
+3.1.2 Conversion & Kommentare
+3.1.3 Reihenfolge der Rechenschritte
+3.1.4 Übungen
+3.1.5 Ermittlung von Wirtschaftsvariablen
+
+3.2 Strings & String-Funktionen
+3.2.1 Python-Namenskonventionen für Variablen
+3.2.2 Variablen mit String-Werten anlegen
+3.2.3 Konvertierung von/zu Strings
+3.2.4 Strings verbinden (Concatenation)
+3.2.5 Strings formatieren
+3.2.6 Escape-Sequenzen
+3.2.7 Indexierung und Splitten von Strings
+3.2.8 User-Input verarbeiten
+3.2.9 Die wichtigsten String-Funktionen
+3.2.10 Weitere wichtige String-Funktionen
+3.2.11 Die wichtigsten String-Funktionen mit boolschen Rückgabewerten
+3.2.12 in, not in, is, is not (Membership & Identity Operators)
+3.2.13 Abschließende Aufgaben zu Strings
+
+3.3 Conditions - Bedingungen
+3.3.1 If - Wenn
+3.3.2 Vergleichsoperatoren
+3.3.3 Flow-Charts
+3.3.4 Else - Sonst
+3.3.5 Elif - Sonst Wenn
+3.3.6 Pass - Überspringen
+3.3.7 Truthiness & Falsiness
+3.3.8 Die logischen Operatoren and, not & or
+3.3.9 Multiple Elifs
+3.3.10 Verschachtelte/nested If-Statements
+3.3.11 Abschließende Aufgaben zu Conditions
+
+(folgende Kapitel sind noch in Arbeit)
+3.4 Datenstruktur List
+3.5 Datenstruktur Dictionary
+3.6 Loops und Funktionen
