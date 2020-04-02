@@ -20,16 +20,16 @@ Mit einem Klick öffnet man es.
 Beim ersten Arbeiten damit muss man den Kernel zur Ausführung des Notebooks festlegen. Wähle: "Python 3".
 
 Tipp:
-Vor der Bearbeitung eine Kopie von dem Jupyter Notebook erstellen sowie diese ggf. umbenennen und dann die Kopie bearbeiten. 
-Sonst überschreibt man die Originaldatei.
+Vor der Bearbeitung ist es besser, von dem Jupyter Notebook eine Kopie zu erstellen sowie diese ggf. umzubenennen und
+dann die Kopie zu bearbeiten. Sonst überschreibt man die Originaldatei.
 
 Weiter zur Bearbeitung:
 Links oben in der Notebookansicht kann man unter "Files" zurück in seine Dateiübersicht auf CoCalc.
 Rechts neben "File" gibt es den grünen Button "Save", um die aktuelle Datei abzuspeichern.
 Unter "File" kann man seine aktuelle Datei herunterladen und mehr.
 In den Jupyter Notebooks wird davon ausgegangen, dass sie im Localhost ausgeführt werden und nicht auf CoCalc.
-Deshalb beziehen sich die Hinweise zur Bedienung in ihnen nicht direkt auf CoCalc, 
-sondern es wird nur von "Jupyter Notebook" gesprochen.
+Deshalb beziehen sich die Hinweise zur Bedienung in ihnen nicht direkt auf CoCalc, sondern es wird nur von 
+"Jupyter Notebook" gesprochen.
 Doch alle Hinweise zur Arbeit mit dem Jupyter Notebook wie das Klicken bestimmter Icons und Tastaturkürzel gelten analog für Cocalc.
 
 Viel Spaß!
