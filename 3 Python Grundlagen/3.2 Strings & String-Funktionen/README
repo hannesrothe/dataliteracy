@@ -1,0 +1,18 @@
+3.2 Strings & String-Funktionen
+
+Bitte darauf achten, die Dateien der Übungseinheiten in der richtigen Reihenfolge zu bearbeiten.
+Sie erscheinen auf GitHub nicht in der vorgesehenen Reihenfolge.
+
+3.2.1 Python-Namenskonventionen für Variablen
+3.2.2 Variablen mit String-Werten anlegen
+3.2.3 Konvertierung von/zu Strings
+3.2.4 Strings verbinden (Concatenation)
+3.2.5 Strings formatieren
+3.2.6 Escape-Sequenzen
+3.2.7 Indexierung und Splitten von Strings
+3.2.8 User-Input verarbeiten
+3.2.9 Die wichtigsten String-Funktionen
+3.2.10 Weitere wichtige String-Funktionen
+3.2.11 Die wichtigsten String-Funktionen mit boolschen Rückgabewerten
+3.2.12 in, not in, is, is not (Membership & Identity Operators)
+3.2.13 Abschließende Aufgaben zu Strings
