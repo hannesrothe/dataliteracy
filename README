@@ -26,7 +26,7 @@ dann die Kopie zu bearbeiten. Sonst überschreibt man die Originaldatei.
 Weiter zur Bearbeitung:
 Links oben in der Notebookansicht kann man über den Button "Files" zurück in seine Dateiübersicht auf CoCalc.
 Unterhalb von "Files" befindet sich der Button "File".
-Unter "File" kann man seine aktuelle Datei herunterladen und mehr.
+Unter "File" kann man eine Kopie des aktuell geöffneten Notebooks erstellen, diese umbenennen, herunterladen und mehr.
 Rechts neben "File" gibt es den grünen Button "Save", um die aktuelle Datei abzuspeichern.
 In den Jupyter Notebooks wird davon ausgegangen, dass sie im Localhost ausgeführt werden und nicht auf CoCalc.
 Deshalb beziehen sich die Hinweise zur Bedienung in ihnen nicht direkt auf CoCalc, sondern es wird nur von 
