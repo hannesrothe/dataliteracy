@@ -11,7 +11,7 @@ Sie werden sonst nicht in den Notebooks angezeigt.
 
 Zur Bearbeitung:
 Die Jupyter Notebooks können in der Browser-App CoCalc bearbeitet werden.
-Für diese Seite braucht man sich nicht anzumelden, somit sind kein Account und folglich kein Login nötig.
+Für diese Seite braucht man sich nicht anzumelden, somit sind kein Account und folglich kein Login nötig, auch keine Installation.
 CoCalc ist fürs kollaborative Arbeiten angelegt. 
 Hier ist der Link zu CoCalc: https://cocalc.com/
 Dort klickt man dann auf: "Run CoCalc Now"
@@ -32,5 +32,7 @@ In den Jupyter Notebooks wird davon ausgegangen, dass sie im Localhost ausgefüh
 Deshalb beziehen sich die Hinweise zur Bedienung in ihnen nicht direkt auf CoCalc, sondern es wird nur von 
 "Jupyter Notebook" gesprochen.
 Doch alle Hinweise zur Arbeit mit dem Jupyter Notebook wie das Klicken bestimmter Icons und Tastaturkürzel gelten analog für Cocalc.
+
+Wenn Python und Jupyter Notebooks neu für dich sind, beginne mit der Einheit 3.0.
 
 Viel Spaß!
