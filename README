@@ -7,7 +7,7 @@ Die einzelnen Kapitel beinhalten interaktive Jupyter Notebooks und zugehörige B
 
 Beim Download beachten:
 Am besten jedes Kapitel in einen separaten Ordner herunterladen und in diesen Ordner auch die Bilddateien.
-Sie werden sonst nicht in den Notebooks angezeigt.
+Sie werden sonst auf dem Localhost nicht in den Notebooks angezeigt (das gilt für eine lokale Python-Installation).
 
 Zur Bearbeitung:
 Die Jupyter Notebooks können in der Browser-App CoCalc bearbeitet werden.
@@ -32,6 +32,10 @@ In den Jupyter Notebooks wird davon ausgegangen, dass sie im Localhost ausgefüh
 Deshalb beziehen sich die Hinweise zur Bedienung in ihnen nicht direkt auf CoCalc, sondern es wird nur von 
 "Jupyter Notebook" gesprochen.
 Doch alle Hinweise zur Arbeit mit dem Jupyter Notebook wie das Klicken bestimmter Icons und Tastaturkürzel gelten analog für Cocalc.
+
+Wichtig bei Jupyter Notebooks mit Bilddateien:
+Lade die entsprechend der Einheiten nummerierten Bilder in den gleichen Ordner hoch wie das Jupyter Notebook, damit die Bilder
+angezeigt werden.
 
 Wenn Python und Jupyter Notebooks neu für dich sind, beginne mit der Einheit 3.0.
 Eine ausführliche Dokumentation zu Jupyter Notebokks in CoCalc findest du hier: https://doc.cocalc.com/jupyter.html
