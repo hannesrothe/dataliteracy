@@ -35,7 +35,23 @@
 3.3.10 Verschachtelte/nested If-Statements
 3.3.11 Abschließende Aufgaben zu Conditions
 
-(folgende Kapitel sind noch in Arbeit)
-3.4 Datenstruktur List
-3.5 Datenstruktur Dictionary
-3.6 Loops und Funktionen
+3.4 Lists
+3.4.1 List - Erstellung & Vorteile
+3.4.2 Indexierung von Listen
+3.4.3 Funktionen für List & andere Datentypen
+3.4.4 Spezielle List-Funktionen
+3.4.5 Kopieren & Sortieren von Listen
+3.4.6 Verschachtelte Listen & verschachteltes Slicing
+3.4.7 Listen verbinden
+3.4.8 Abschließende Aufgaben zu Lists
+
+3.5 Dictionaries
+3.5.1 Was ist ein Dictionary, wie wird es erstellt?
+3.5.2 Auf Daten in Dictionarys zugreifen
+3.5.3 Dictionary & List im Vergleich
+3.5.4 Die wichtigsten Dictionary-Funktionen
+3.5.5 Dictionarys vergleichen & sortieren
+3.5.6 Abschließende Aufgabe zu Dictionarys
+
+(noch in Arbeit)
+3.6 Loops & Funktionen
