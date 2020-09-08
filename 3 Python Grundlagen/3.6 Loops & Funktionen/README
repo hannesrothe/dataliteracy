@@ -1,1 +1,18 @@
+Bitte lade dir die Bilder zu den Einheiten mit der gleichen Nummerierung in den gleichen Ordner wie das entsprechende Jupyter Notebook, sonst werden sie nicht angezeigt.
 
+3.6 Loops & Funktionen
+3.6.1 For-Loop & die Statements break, continue, pass, else
+3.6.2 Besonderheiten zu For-Loops mit Dictionarys
+3.6.3 Besonderheiten zu For-Loops mit Listen
+3.6.4 List-Comprehension
+3.6.5 Dictionary- & Set-Comprehension
+3.6.6 Nested For-Loops mit nested Iterables
+3.6.7 Nested Comprehensions
+3.6.8 Generators
+3.6.9 While-Loop
+3.6.10 Eigene Funktionen definieren I - Grundlagen
+3.6.11 Eigene Funktionen definieren II - Scope, Conditions, Loops
+3.6.12 Eigene Funktionen definieren III - args & kwargs
+3.6.13 Eigene Funktionen definieren IV - Decorators
+3.6.14 Lambda-Funktionen
+3.6.15 Abschließende Aufgaben zu Loops & Funktionen
